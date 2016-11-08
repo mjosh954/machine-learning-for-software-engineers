@@ -39,16 +39,6 @@
 
 ---
 
-AFAIK, [There are two sides to machine learning](http://machinelearningmastery.com/programmers-can-get-into-machine-learning/):
-- Practical Machine Learning: This is about queries databases, cleaning data, writing scripts to transform data and gluing algorithm and libraries together and writing custom code to squeeze reliable answers from data to satisfy difficult and ill defined questions. It’s the mess of reality.
-- Theoretical Machine Learning: This is about math and abstraction and idealized scenarios and limits and beauty and informing what is possible. It is a whole lot neater and cleaner and removed from the mess of reality.
-
-I think the best way for practice-focused methodology is something like ['practice — learning — practice'](http://machinelearningmastery.com/machine-learning-for-programmers/#comment-358985), that means where students first come with some existing projects with problems and solutions (practice) to get familiar with traditional methods in the area and perhaps also with their methodology. After practicing with some elementary experiences, they can go into the books and study the underlying theory, which serves to guide their future advanced practice and will enhance their toolbox of solving practical problems. Studying theory also further improves their understanding on the elementary experiences, and will help them acquire advanced experiences more quickly.
-
- It's a long plan. It's going to take me years. If you are familiar with a lot of this already it will take you a lot less time.
-
-[More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
-
 ## About Video Resources
 
 Some videos are available only by enrolling in a Coursera or EdX class. It is free to do so, but sometimes the classes
@@ -69,9 +59,6 @@ This short section were prerequisites/interesting info I wanted to learn before 
 Each subject does not require a whole day to be able to understand it fully, and you can do multiple of these in a day.
 
 Each day I take one subject from the list below, read it cover to cover, take note, do the exercises and write an implementation in Python or R.
-
-# Motivation
-- [ ] [Dream](https://www.youtube.com/watch?v=g-jwWYX7Jlo)
 
 ## Machine learning overview
 - [x] [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
