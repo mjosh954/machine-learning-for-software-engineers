@@ -14,7 +14,6 @@
 
 ## Table of Contents
 
-- [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
 - [About Video Resources](#about-video-resources)
 - [Prerequisite Knowledge](#prerequisite-knowledge)
 - [The Daily Plan](#the-daily-plan)
